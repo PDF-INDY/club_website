@@ -1,7 +1,7 @@
 ---
-title: Week 8 - Undecided
+title: Week 8 - Industry Speaker
 layout: home
 nav_order: 8
 ---
 
-This page will appear second in the top-level navigation.
+Work in Progress

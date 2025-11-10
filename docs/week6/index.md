@@ -1,7 +1,7 @@
 ---
-title: Week 6 - Undecided
+title: Week 6 - PEY Speaker
 layout: home
 nav_order: 6
 ---
 
-This page will appear second in the top-level navigation.
+Work in Progress

@@ -7,45 +7,50 @@ nav_order: 0
 
 Hello everyone, and welcome to Professional Development For Industrial Engineers (**PDF-INDY**).
 
-<div style="width: 100%; overflow-x: auto; white-space: nowrap; padding: 10px 0;">
+### Welcome!
 
-  <div style="display: inline-block; width: 220px; vertical-align: top; margin: 0 10px; text-align: left;">
-    
-    <img src="/assets/images/zach.png" alt="Profile picture of Zach Liu" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; display: block; margin-left: auto; margin-right: auto; margin-bottom: 10px;">
-    
-    <strong style="display: block; text-align: center;">Zach Liu</strong>
-    <em style="display: block; text-align: center; margin-bottom: 10px; font-size: 0.9em;">title*</em>
-    
-  </div>
+This new group is built to connect students currently on their **Professional Experience Year (PEY)** with lower-year students who are still navigating their paths. Our motivation is simple: to offer practical advice, share technical skills, and provide guidance based on real-world experience.
 
-  <div style="display: inline-block; width: 220px; vertical-align: top; margin: 0 10px; text-align: left;">
+### Our Mission
 
-    <img src="assets/images/joe.png" alt="Profile picture of Joe Lee" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; display: block; margin-left: auto; margin-right: auto; margin-bottom: 10px;">
+As an Industrial Engineering student, I've always found our discipline to be incredibly flexible. But with that flexibility comes an overwhelming number of options.
 
-    <strong style="display: block; text-align: center;">Joe Lee</strong>
-    <em style="display: block; text-align: center; margin-bottom: 10px; font-size: 0.9em;">ML Research @ Huawei Canada</em>
+My hope is to create a space where we can:
 
-  </div>
-  
-  <div style="display: inline-block; width: 220px; vertical-align: top; margin: 0 10px; text-align: left;">
-    
-    <img src="/assets/images/cathy.png" alt="Profile picture of Cathy Xiong" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; display: block; margin-left: auto; margin-right: auto; margin-bottom: 10px;">
-    
-    <strong style="display: block; text-align: center;">Cathy Xiong</strong>
-    <em style="display: block; text-align: center; margin-bottom: 10px; font-size: 0.9em;">title*</em>
-    
-  </div>
-  
-  </div>
+1.  Learn practical, career-focused technical skills that might not be taught in class.
+2.  Gain honest insight into what different career paths _really_ look like.
 
-The motivation for this club is to provide workshops and sessions led by students currently on their **Professional Experience Year (PEY)**. We want to offer practical advice and guidance for lower-year students navigating their own paths.
+Unlike clubs focused specifically on Industrial Engineering careers (like IISE), our goal is to cover as wide a range of career paths as possible. This group isn't just for Industrial Engineering students; We just named it PDF-INDY because we're in Industrial Engineering. We welcome students from **all disciplines** who are looking to explore their options, especially for PEY.
 
-I've always found Industrial Engineering to be a very flexible discipline, but because it's so flexible, the number of available options can sometimes feel overwhelming. My hope is to provide a place where you can learn practical technical skills—at least the ones I've found useful that may not be taught at school—and gain insight into what different career paths for Industrial Engineering really look like.
+### How We're Different
 
-However, this club isn't just for Industrial Engineering students. We are open to students from all disciplines who are looking to explore their options, especially regarding PEY.
+We're not a traditional club. There are no formal positions. Think of this as a semester-long workshop series where we all share information and learn from each other. We also plan to be pretty consistent.
 
-Our plan is to run sessions every 3 weeks, rotating between a technical skills workshop (run by myself or other club members) and a guest speaker session. In these sessions, current PEY students will share what they do, provide advice, and answer questions about their experiences.
+- **Anyone Can Lead:** I will be organizing some sessions, but **anyone who wants to present can present.** If you have a topic you're passionate about and are prepared to share, please reach out to me. All schedules are tentative.
+- **Project Feedback:** We want to encourage personal projects. At the end of each session, we'll set aside time for peer-to-peer feedback. It's a great opportunity to get new perspectives on your work and help others with theirs.
 
-This is the first semester we're running this club, so there may be some hiccups along the way. We hope to iterate and improve our sessions to offer the best guidance to lower-year students.
+### Proposed Schedule & Format
+
+We plan to run sessions roughly **every 3 weeks**, alternating between technical workshops and guest speaker sessions.
+
+Each meeting will take place online (depending on number of participants) and will be about 60 minutes:
+
+- **30-40 minutes:** Main workshop or speaker presentation.
+- **20-30 minutes:** Open Q&A and project feedback.
+
+Here is a tentative schedule for our first semester:
+
+- **Week 1**: Technical Workshop: Intro to the Shell, Git/GitHub, and NumPy
+- **Week 2**: PEY Speaker: Experience at EY
+- **Week 3**: Technical Workshop: Intro to Docker, Dev Containers, GPU Compute (RunPods)
+- **Week 4**: PEY Speaker: Experience at CIBC
+- **Week 5**: Technical Workshop: Intro to CI/CD with Pytest and GitHub Actions
+- **Week 6**: PEY Speaker: TBD
+- **Week 7**: Technical Workshop: Implementing Papers from Scratch (ResNet)
+- **Week 8**: PEY Speaker: TBD
+
+---
+
+This is the first semester we're running this, so there may be hiccups. We're excited to iterate, improve, and build this community with you to offer the best guidance we can.
 
 Thanks for reading!

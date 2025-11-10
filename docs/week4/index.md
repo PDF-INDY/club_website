@@ -1,7 +1,7 @@
 ---
-title: Week 4 - Banking
+title: Week 4 - PEY Speaker
 layout: home
 nav_order: 4
 ---
 
-This page will appear second in the top-level navigation.
+Work in Progress
