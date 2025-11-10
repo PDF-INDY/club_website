@@ -20,7 +20,7 @@ Hello everyone, and welcome to Professional Development For Industrial Engineers
 
   <div style="display: inline-block; width: 220px; vertical-align: top; margin: 0 10px; text-align: left;">
 
-    <img src="/assets/images/joe.png" alt="Profile picture of Joe Lee" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; display: block; margin-left: auto; margin-right: auto; margin-bottom: 10px;">
+    <img src="assets/images/joe.png" alt="Profile picture of Joe Lee" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; display: block; margin-left: auto; margin-right: auto; margin-bottom: 10px;">
 
     <strong style="display: block; text-align: center;">Joe Lee</strong>
     <em style="display: block; text-align: center; margin-bottom: 10px; font-size: 0.9em;">ML Research @ Huawei Canada</em>
