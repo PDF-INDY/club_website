@@ -1,35 +1,51 @@
 ---
 title: Home
 layout: home
+permalink: /
+nav_order: 0
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+Hello everyone, and welcome to Professional Development For Industrial Engineers (**PDF-INDY**).
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+<div style="width: 100%; overflow-x: auto; white-space: nowrap; padding: 10px 0;">
 
-More specifically, the created site:
+  <div style="display: inline-block; width: 220px; vertical-align: top; margin: 0 10px; text-align: left;">
+    
+    <img src="/assets/images/zach.png" alt="Profile picture of Zach Liu" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; display: block; margin-left: auto; margin-right: auto; margin-bottom: 10px;">
+    
+    <strong style="display: block; text-align: center;">Zach Liu</strong>
+    <em style="display: block; text-align: center; margin-bottom: 10px; font-size: 0.9em;">title*</em>
+    
+  </div>
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+  <div style="display: inline-block; width: 220px; vertical-align: top; margin: 0 10px; text-align: left;">
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+    <img src="/assets/images/joe.png" alt="Profile picture of Joe Lee" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; display: block; margin-left: auto; margin-right: auto; margin-bottom: 10px;">
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+    <strong style="display: block; text-align: center;">Joe Lee</strong>
+    <em style="display: block; text-align: center; margin-bottom: 10px; font-size: 0.9em;">ML Research @ Huawei Canada</em>
 
-To get started with creating a site, simply:
+  </div>
+  
+  <div style="display: inline-block; width: 220px; vertical-align: top; margin: 0 10px; text-align: left;">
+    
+    <img src="/assets/images/cathy.png" alt="Profile picture of Cathy Xiong" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; display: block; margin-left: auto; margin-right: auto; margin-bottom: 10px;">
+    
+    <strong style="display: block; text-align: center;">Cathy Xiong</strong>
+    <em style="display: block; text-align: center; margin-bottom: 10px; font-size: 0.9em;">title*</em>
+    
+  </div>
+  
+  </div>
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+The motivation for this club is to provide workshops and sessions led by students currently on their **Professional Experience Year (PEY)**. We want to offer practical advice and guidance for lower-year students navigating their own paths.
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+I've always found Industrial Engineering to be a very flexible discipline, but because it's so flexible, the number of available options can sometimes feel overwhelming. My hope is to provide a place where you can learn practical technical skills—at least the ones I've found useful that may not be taught at school—and gain insight into what different career paths for Industrial Engineering really look like.
 
-----
+However, this club isn't just for Industrial Engineering students. We are open to students from all disciplines who are looking to explore their options, especially regarding PEY.
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+Our plan is to run sessions every 3 weeks, rotating between a technical skills workshop (run by myself or other club members) and a guest speaker session. In these sessions, current PEY students will share what they do, provide advice, and answer questions about their experiences.
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+This is the first semester we're running this club, so there may be some hiccups along the way. We hope to iterate and improve our sessions to offer the best guidance to lower-year students.
+
+Thanks for reading!
