@@ -54,3 +54,8 @@ Here is a tentative schedule for our first semester:
 This is the first semester we're running this, so there may be hiccups. We're excited to iterate, improve, and build this community with you to offer the best guidance we can.
 
 Thanks for reading!
+
+### UofT Engineering Society Complaint Policy Resources
+
+- [Ombudsperson@g.skule.ca](ombudsperson@g.skule.ca)
+- [Complaint Policy](https://github.com/skule/bylaws/blob/master/policies/Policy-on-Complaints.pdf)
